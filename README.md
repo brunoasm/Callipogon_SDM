@@ -1,4 +1,4 @@
-#Species distribution modelling for Callipogon relictus
+# Species distribution modelling for Callipogon relictus
 
 This repository contains scripts and data needed to reproduce the species distribution models published in 
 Kim S, de Medeiros BAS, et al. 2017. Journal of Biogeography (submitted)
@@ -36,7 +36,7 @@ Directory with maxent program
 
 Directory with kml file containg polygon to exclude islands.
 
-##Notes
+## Notes
 
 Initially, we excluded Japan and other islands from figure 4 and supplementary maps, bu later decided to include them. Files 5 and 6, with suffix w_islands, are modifications of these scripts to include islands in the plots.
 
