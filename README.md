@@ -40,6 +40,6 @@ Directory with kml file containg polygon to exclude islands.
 
 ## Notes
 
-Initially, we excluded Japan and other islands from figure 4 and supplementary maps, bu later decided to include them. Files 5 and 6, with suffix w_islands, are modifications of these scripts to include islands in the plots.
+Initially, we excluded Japan and other islands from figure 4 and supplementary maps, but later decided to include them. Files 5 and 6, with suffix w_islands, are modifications of these scripts to include islands in the plots.
 
-*.sh files are slurm scripts to run some of the scripts above in Harvard's Odyssey Cluster. The others were run in interactive sessions.
+*.sh files are slurm scripts to run some of the scripts above in Harvard's Odyssey Cluster.
