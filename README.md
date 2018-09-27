@@ -1,7 +1,9 @@
 # Species distribution modelling for Callipogon relictus
 
 This repository contains scripts and data needed to reproduce the species distribution models published in 
-Kim, Sangil, Bruno A.S. de Medeiros, Bong Kyu Byun, Seunghwan Lee, Jung Hoon Kang, Bongwoo Lee, and others, ‘West Meets East: How Do Rainforest Beetles Become Circum-Pacific? Evolutionary Origin of Callipogon Relictus and Allied Species (Cerambycidae: Prioninae) in the New and Old Worlds’, Molecular Phylogenetics and Evolution, 125 (2018), 163–76 <https://doi.org/10.1016/j.ympev.2018.02.019>
+
+Kim S, de Medeiros BAS, ..., Farrell BD. 2018. West Meets East: How Do Rainforest Beetles Become Circum-Pacific? Evolutionary Origin of Callipogon Relictus and Allied Species (Cerambycidae: Prioninae) in the New and Old Worlds. Molecular Phylogenetics and Evolution 125:163–76 <https://doi.org/10.1016/j.ympev.2018.02.019>
+
 
 Contents of this folder:
 
