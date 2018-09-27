@@ -8,35 +8,36 @@ Kim S, de Medeiros BAS, ..., Farrell BD. 2018. West Meets East: How Do Rainfores
 Contents of this folder:
 
 1. relictus_distribution_final.txt
-File with locality data for Callipogon relictus
+
+   File with locality data for Callipogon relictus
 
 2. SDM_Callipogon.R
 
-Runs all models and projections using biomod2, in an utm map projection
+   Runs all models and projections using biomod2, in an utm map projection
 
 3. plot_projections_lonlat.R
 
-Transform the results of previous scripts back to latlon to enable plotting pretty maps
+   Transform the results of previous scripts back to latlon to enable plotting pretty maps
 
 4. plots_expansion_loss.R
 
-Plots graphs of area expansion and loss (figure 5)
+   Plots graphs of area expansion and loss (figure 5)
 
 5. figure_ensemble_projection.R
 
-Plots figure 4 (ensemble projection to present and one future scenario)
+   Plots figure 4 (ensemble projection to present and one future scenario)
 
 6. supplementary_plots.R
 
-Plots all supplementary figures
+   Plots all supplementary figures
 
 7. maxent/
 
-Directory with maxent program
+   Directory with maxent program
 
 8. islands_exclude/
 
-Directory with kml file containg polygon to exclude islands.
+   Directory with kml file containg polygon to exclude islands.
 
 ## Notes
 
